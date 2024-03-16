@@ -112,7 +112,7 @@ body{
 }
 
 
-.accordion_q:hover {
+.accordion_item:hover .accordion_q {
     color: var(--Lightpurple);
 }
 
