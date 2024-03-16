@@ -10,6 +10,7 @@ body{
     margin: 0;
     font-family: "Work Sans", sans-serif;;
     color: var(--Darkpurple);
+    min-height: 100vh;
    
 }
 
@@ -29,6 +30,12 @@ body{
 .img-header 
 {
     width: 100%;
+}
+
+.main {
+    padding: 0 6.6%;
+    background-color: var(--Lightpink);
+    height: 60vh;
 }
 
 .accordion {
